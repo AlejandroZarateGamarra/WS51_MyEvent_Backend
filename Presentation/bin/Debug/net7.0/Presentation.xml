@@ -235,5 +235,20 @@
              <response code="201">Returns the ID of the newly created product.</response>
              <response code="400">If the command is null or invalid.</response>
         </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.ProductController.DeleteAsync(System.Int32)">
+             <summary>
+             Deletes a product by its ID.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 DELETE /api/products/{id}
+            
+             </remarks>
+             <param name="id">The ID of the product.</param>
+             <returns>A status code indicating the result of the operation.</returns>
+             <response code="204">If the product is successfully deleted.</response>
+             <response code="404">If the product is not found.</response>
+        </member>
     </members>
 </doc>

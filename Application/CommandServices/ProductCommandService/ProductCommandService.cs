@@ -29,4 +29,15 @@ public class ProductCommandService:IProductCommandService
         var product = _mapper.Map<CreateProductCommand, Product>(command);
         return await _productRepository.SaveAsync(product);
     }
+    public async Task<bool> DeleteAsync(int id)
+    {
+        var product = await _productRepository.GetByIdAsync(id);
+        if (product == null)
+        {
+            return false;
+        }
+
+        await _productRepository.DeleteAsync(product.Id);
+        return true;
+    }
 }

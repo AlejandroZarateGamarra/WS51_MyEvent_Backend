@@ -136,5 +136,28 @@ namespace WS51_MyEvent.Publishing.Controllers
             return BadRequest();
         }
         
+        // DELETE: api/Product/5
+        /// <summary>
+        /// Deletes a product by its ID.
+        /// </summary>
+        /// <remarks>
+        /// Request example:
+        ///
+        ///     DELETE /api/products/{id}
+        ///
+        /// </remarks>
+        /// <param name="id">The ID of the product.</param>
+        /// <returns>A status code indicating the result of the operation.</returns>
+        /// <response code="204">If the product is successfully deleted.</response>
+        /// <response code="404">If the product is not found.</response>
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteAsync(int id)
+        {
+            var result = await _productCommandService.DeleteAsync(id);
+            if (result)
+                return NoContent();
+            return NotFound();
+        }
+        
     }
 }

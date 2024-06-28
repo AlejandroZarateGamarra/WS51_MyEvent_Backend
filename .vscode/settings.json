@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/70945835-e2b7-4c7c-bb21-1ba90b71bfdd/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/myeventappweb",
+    "appService.deploySubpath": "."
+}
