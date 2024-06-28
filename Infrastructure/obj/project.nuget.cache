@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A8HnrSkb5snilkWRyf/mp7xBdJqiDOIyFup7YOTDZVtWBg9lK9X42wbL3YZZa+ZblgbyEzZG+7yOAqUwRlru9A==",
+  "dgSpecHash": "66xcAAfMOcsGEI9AgSVdN72EYspaWov3p8NiJjqRomLlJtLylQ25FH0V4o8PWupSJe4jAL4oG7pMloiBWLKOaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\WS51_MyEvent_Backend\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.19\\microsoft.entityframeworkcore.7.0.19.nupkg.sha512",

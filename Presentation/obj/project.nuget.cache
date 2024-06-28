@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FTrIqz33eDiEELjOzss4WE+7jskkWSFJddkwh+xL5NfmwctKGk5HwTfSe2Qj6a2kSqe0hpIovsXxViLLxO7zAA==",
+  "dgSpecHash": "cI2LPmERPe4PYsTByujIJtV2KZVN6cxUANa8lxjrV4i0ERjDFHL3wPFRCK4fvj64GIJHskFkaboWE+SVLkNs/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\\Presentation\\Presentation.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\WS51_MyEvent_Backend\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\bcrypt.net\\0.1.0\\bcrypt.net.0.1.0.nupkg.sha512",

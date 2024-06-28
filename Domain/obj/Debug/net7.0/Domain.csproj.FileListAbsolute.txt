@@ -54,3 +54,15 @@ C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\D
 C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Usuario\Desktop\WS51_MyEvent_Backend\Domain\obj\Debug\net7.0\ref\Domain.dll

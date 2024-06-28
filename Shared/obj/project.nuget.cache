@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2C76WsPYGblYNwHeEIIuCATXAerDmvSvLLBwlHkgSVEG5RYYgBKzRIRs7408GfzYEY3R9r9RiwI2qlerStPJXg==",
+  "dgSpecHash": "efwn45n9QKzPMVKVR9Tyq9cXjL4aaC6hdVL55myXLvGbvLzCg479T6QL5J/0+h0b0AJDq5+Go+YdFl4NMGCqsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\\Shared\\Shared.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\WS51_MyEvent_Backend\\Shared\\Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
