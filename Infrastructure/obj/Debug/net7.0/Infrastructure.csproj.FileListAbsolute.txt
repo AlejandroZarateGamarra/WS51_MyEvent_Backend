@@ -1,0 +1,86 @@
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Shared.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Shared.pdb
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Shared.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\bin\Debug\net7.0\Shared.pdb
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\bin\Debug\net7.0\Shared.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\bin\Debug\net7.0\Shared.pdb
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Shared.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Shared.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\bin\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

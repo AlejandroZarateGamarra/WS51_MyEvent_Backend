@@ -1,0 +1,56 @@
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Domain\obj\Debug\net7.0\ref\Domain.dll

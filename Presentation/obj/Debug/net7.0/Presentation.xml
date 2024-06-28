@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Presentation</name>
+    </assembly>
+    <members>
+        <member name="T:WS51_MyEvent.Publishing.Controllers.CustomerController">
+            <summary>
+            Controller to manage customer operations.
+            </summary>
+            <remarks>
+            Provides endpoints to get all customers, get a customer by its ID, create a new customer, log in, register and update customer information.
+            </remarks>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.CustomerController.GetAsync">
+             <summary>
+             Gets all customers.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 GET /api/customers
+            
+             </remarks>
+             <returns>A list of customers if found.</returns>
+             <response code="200">Returns the list of customers.</response>
+             <response code="404">If no customers are found.</response>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.CustomerController.GetAsync(System.Int32)">
+             <summary>
+             Gets a customer by their ID.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 GET /api/customers/{id}
+            
+             </remarks>
+             <param name="id">The ID of the customer.</param>
+             <returns>The details of the customer if found.</returns>
+             <response code="200">Returns the customer details.</response>
+             <response code="404">If the customer is not found.</response>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.CustomerController.Login(Domain.Publishing.Models.Commands.CustomerCommands.SignInCommand)">
+             <summary>
+             Logs in an existing customer.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 POST /api/customers/login
+                 {
+                    "username": "johndoe",
+                    "password": "password123"
+                 }
+            
+             </remarks>
+             <param name="command">The login command.</param>
+             <returns>An access token if the login is successful.</returns>
+             <response code="200">Returns the newly created access token.</response>
+             <response code="400">If the command is null or invalid.</response>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.CustomerController.Register(Domain.Publishing.Models.Commands.CustomerCommands.SignUpCommand)">
+             <summary>
+             Registers a new customer.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 POST /api/customers/register
+                 {
+                    "username": "johndoe",
+                    "password": "password123",
+                    "email": "johndoe@example.com",
+                    "userImage": "http://example.com/image.jpg",
+                    "isArtisan": true,
+                    "role": "user"
+                 } 
+            
+             </remarks>
+             <param name="command">The registration command.</param>
+             <returns>An access token if the registration is successful.</returns>
+             <response code="200">Returns the newly created access token.</response>
+             <response code="400">If the command is null or invalid.</response>
+        </member>
+        <member name="T:WS51_MyEvent.Publishing.Controllers.OrderController">
+            <summary>
+            Controller to manage order operations.
+            </summary>
+            <remarks>
+            Provides endpoints to get all orders, get an order by its ID, and create a new order.
+            </remarks>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.OrderController.GetAsync">
+             <summary>
+             Gets all orders.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 GET /api/orders
+            
+             </remarks>
+             <returns>A list of orders if found.</returns>
+             <response code="200">Returns the list of orders.</response>
+             <response code="404">If no orders are found.</response>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.OrderController.GetAsync(System.Int32)">
+             <summary>
+             Gets an order by its ID.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 GET /api/orders/{id}
+            
+             </remarks>
+             <param name="id">The ID of the order.</param>
+             <returns>The details of the order if found.</returns>
+             <response code="200">Returns the order details.</response>
+             <response code="404">If the order is not found.</response>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.OrderController.PostAsync(Domain.Publishing.Models.Commands.OrderCommands.CreateOrderCommand)">
+             <summary>
+             Creates a new order.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 POST /api/orders/create
+                 {
+                    "productId": "123",
+                    "product": "Product Name",
+                    "parameters": [
+                      {
+                        "paramName": "Color",
+                        "paramValue": "Red"
+                      }
+                    ],
+                    "price": 100.0
+                 }
+            
+             </remarks>
+             <param name="command">The command to create an order.</param>
+             <returns>The ID of the created order if the creation is successful.</returns>
+             <response code="201">Returns the ID of the newly created order.</response>
+             <response code="400">If the command is null or invalid.</response>
+        </member>
+        <member name="T:WS51_MyEvent.Publishing.Controllers.ProductController">
+            <summary>
+            Controller to manage product operations.
+            </summary>
+            <remarks>
+            Provides endpoints to get all products, get a product by its ID, and create a new product.
+            </remarks>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.ProductController.GetAsync">
+             <summary>
+             Gets all products.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 GET /api/products
+            
+             </remarks>
+             <returns>A list of products if found.</returns>
+             <response code="200">Returns the list of products.</response>
+             <response code="404">If no products are found.</response>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.ProductController.GetAsync(System.Int32)">
+             <summary>
+             Gets a product by its ID.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 GET /api/products/{id}
+            
+             </remarks>
+             <param name="id">The ID of the product.</param>
+             <returns>The details of the product if found.</returns>
+             <response code="200">Returns the product details.</response>
+             <response code="404">If the product is not found.</response>
+        </member>
+        <member name="M:WS51_MyEvent.Publishing.Controllers.ProductController.PostAsync(Domain.Publishing.Models.Commands.ProductCommands.CreateProductCommand)">
+             <summary>
+             Creates a new product.
+             </summary>
+             <remarks>
+             Request example:
+            
+                 POST /api/products/create
+                 {
+                    "name": "Product",
+                    "description": "Product description",
+                    "price": 100.0,
+                    "details": "Product details",
+                    "artisanDetails": "Artisan details",
+                    "customizationParameters": {
+                      "parameters": [
+                        {
+                          "name": "Color",
+                          "values": [
+                            {
+                              "value": "Red"
+                            }
+                          ]
+                        }
+                      ],
+                      "engraving": "Custom engraving"
+                    },
+                    "size": 10.0,
+                    "inputText": "Input text",
+                    "engraving": "Product engraving",
+                    "category": "Product category",
+                    "image": "http://example.com/image.jpg",
+                    "detailImages": [
+                      {
+                        "imageUrl": "http://example.com/detail_image.jpg"
+                      }
+                    ],
+                    "author": "Product author",
+                    "features": [
+                      {
+                        "name": "Material",
+                        "value": "Wood"
+                      }
+                    ]
+                 }
+            
+             </remarks>
+             <param name="command">The command to create a product.</param>
+             <returns>The ID of the created product if the creation is successful.</returns>
+             <response code="201">Returns the ID of the newly created product.</response>
+             <response code="400">If the command is null or invalid.</response>
+        </member>
+    </members>
+</doc>

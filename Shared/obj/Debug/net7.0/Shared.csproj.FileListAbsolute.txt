@@ -1,0 +1,56 @@
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\bin\Debug\net7.0\Shared.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\bin\Debug\net7.0\Shared.pdb
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.pdb
+C:\Users\Alessandro\RiderProjects\WX-53 Artisania\Shared\obj\Debug\net7.0\ref\Shared.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\bin\Debug\net7.0\Shared.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\bin\Debug\net7.0\Shared.pdb
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\obj\Debug\net7.0\Shared.pdb
+C:\Users\Alessandro\Desktop\borrar\WX-53 Artisania\WX-53 Artisania\Shared\obj\Debug\net7.0\ref\Shared.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\bin\Debug\net7.0\Shared.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\bin\Debug\net7.0\Shared.pdb
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\obj\Debug\net7.0\Shared.sourcelink.json
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\obj\Debug\net7.0\Shared.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\obj\Debug\net7.0\Shared.pdb
+C:\Users\Alessandro\RiderProjects\DDD backend artisania\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd\Shared\obj\Debug\net7.0\ref\Shared.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\bin\Debug\net7.0\Shared.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\bin\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Desktop\WX53-Grupo-1-Aplicaciones-DDD-Web-BackEnd-main\Shared\obj\Debug\net7.0\ref\Shared.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\bin\Debug\net7.0\Shared.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\bin\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\obj\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Desktop\WS51-Grupo-S-Aplicaciones-Web-BackEnd-main\Shared\obj\Debug\net7.0\ref\Shared.dll
