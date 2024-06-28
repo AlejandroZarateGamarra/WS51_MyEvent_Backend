@@ -1,28 +1,64 @@
-name: Publish 
+name: Build and deploy .NET app to Azure Web App - Myevent
 
 on:
-  workflow_dispatch:
   push:
     branches:
-    - main
+      - main
+  workflow_dispatch:
 
 jobs:
-  publish:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: windows-latest
 
     steps:
-      - uses: actions/ckeckout@v3
+      - uses: actions/checkout@v4
 
-      - name: Setup .NET
+      - name: Set up .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '6.0.x'
+          dotnet-version: '7.0.x'  # Ajusta la versión según tus necesidades
 
-      - name: Restore
-        run: dotnet restore ./CurrentTimeService.sln
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Build with .NET
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Publish .NET app
+        run: dotnet publish --configuration Release --output ${{ github.workspace }}/publish
+
+      - name: Upload artifact for deployment job
+        uses: actions/upload-artifact@v3
+        with:
+          name: dotnet-app
+          path: ${{ github.workspace }}/publish
+
+  deploy:
+    runs-on: windows-latest
+    needs: build
+    environment:
+      name: 'Production'
+      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+    permissions:
+      id-token: write #Esto es requerido para solicitar el JWT
+
+    steps:
+      - name: Download artifact from build job
+        uses: actions/download-artifact@v3
+        with:
+          name: dotnet-app
       
-      - name: Build
-        run: dotnet build ./CurrentTimeService.sln --configuration Release --no-restore
+      - name: Login to Azure
+        uses: azure/login@v1
+        with:
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_2A8793D3F79543009D7007D461A2E2F6 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_1956E8B7B5054E6C8E7C52059E5E7AF6 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_F1342AA852D345D6B61BE0E8BCF8D484 }}
 
-      - name: Publish
-        run: dotnet publish ./CurrentTimeService.sln --configuration Release --no-build
+      - name: Deploy to Azure Web App
+        id: deploy-to-webapp
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: 'Myevent'
+          slot-name: 'Production'
+          package: ${{ github.workspace }}/publish
